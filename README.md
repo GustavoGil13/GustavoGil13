@@ -1,9 +1,12 @@
 ### Hi there my name is Gustavo Morais 👋
-
-<br />
-
 ![](https://visitor-badge.laobi.icu/badge?page_id=GustavoGil13.GustavoGil13)
 [![Github](https://img.shields.io/github/followers/GustavoGil13?label=Follow&style=social)](https://github.com/GustavoGil13)
+
+## 🎓 I'm a Master´s student in Computational Engineering
+
+- :mag: i´m currently trying to learn more about Data Science
+
+<br />
 
 <!--
 **GustavoGil13/GustavoGil13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
