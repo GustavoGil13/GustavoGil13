@@ -31,14 +31,14 @@ Here are some ideas to get you started:
 </p>
 
 <br />
-
+<!--
 ## :trophy: My Github Stats:
 
 
-<!--
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoGil13&show_icons=true&theme=dark) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoGil13&theme=dark)
--->
+
 
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=GustavoGil13&theme=dark">
@@ -48,3 +48,4 @@ Here are some ideas to get you started:
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoGil13&hide=php&theme=dark" />
 </a>
 </div>
+-->
